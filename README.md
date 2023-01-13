@@ -31,7 +31,7 @@ Besides, we also attended the Solana Codecamp Vietnam 2022 and got the third-pri
 
 We propose three milestone goals in our project. We will spend the funds on the first milestone, and if it satisfies the requirement, we would like to continue applying for the next milestone. 
 
-*Milestones 1*:
+*Milestones 1 ($3,500)*:
 
 - Research staking solutions and common demands of developer
 
@@ -41,12 +41,12 @@ We propose three milestone goals in our project. We will spend the funds on the 
 
 - Build comprehensive documentation and tutorial videos for the program. 
 
-*Milestones 2*:
+*Milestones 2 ($2,000)*:
 
 - Develop and add new rents
 - Build reinforcement algorithms giving reward tokens
 
-*Milestones 3*:
+*Milestones 3 ($4,000)*:
 
 - Develop and add more new rents
 - Develop a UI version by using React so that developers can create skiing pools easily.
