@@ -4,7 +4,7 @@
 
 *Project title*: SPL Staking Program
 
-*Fund*: $3,500
+*Fund*: $3,500 for Milestones 1
 
 At the current state, there are many available staking programs on the Solana network. However, none of them allows developers to create pool staking with arbitrary SPL-token simply and securely. In this project, we propose the SPL Staking Program, an open-source program supporting all SPL-token. The main novel features of our program are:
   - Provide multi renting mode which adapt realistic requirements from many project.
@@ -50,7 +50,6 @@ We propose three milestone goals in our project. We will spend the funds on the 
 
 - Develop and add more new rents
 - Develop a UI version by using React so that developers can create skiing pools easily.
-
 
 <table>
   <tbody>
