@@ -12,7 +12,7 @@ At the current state, there are many available staking programs on the Solana ne
   - Minimize cost to operate staking pool and provides comprehensive documentation for developer to deploy and upgrade the program.
   - Provide an integrated UI for developers for easy-to-deploy of the staking pool.
  
-About our development members, we are a team of two experienced developers with much experience developing ​​Dapp on Solana. Some of the representative projects are:
+About our development members, we are a team of three experienced developers with much experience developing ​​Dapp on Solana. Some of the representative projects are:
 
 1. Staking Dapp for Starbots
   * Program Address: https://solscan.io/account/FDVR5rp6F5arSfew3qGkPmxMEduenZ9u6EbEob75RTGB
