@@ -6,7 +6,7 @@
 
 *Fund*: $3,500 for Milestones 1
 
-At the current state, there are many available staking programs on the Solana network. However, none of them allows developers to create pool staking with arbitrary SPL-token simply and securely. In this project, we propose the SPL Staking Program, an open-source program supporting all SPL-token. The main novel features of our program are:
+At the current state, there are many available staking programs on the Solana network. However, none of them allows developers to create pool staking with arbitrary SPL-token simply and securely without any fee or token requirements. In this project, we propose the SPL Staking Program, an open-source program supporting all SPL-token which client can easily use or update completely for free. The main novel features of our program are:
   - Provide multi renting mode which adapt realistic requirements from many project.
   - Provide SDK and CLI for smooth integration of the program.
   - Minimize cost to operate staking pool and provides comprehensive documentation for developer to deploy and upgrade the program.
